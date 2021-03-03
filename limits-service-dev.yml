@@ -2,5 +2,5 @@ spring:
   application:
     name: limits-service
 limits-services:
-  min: 99
+  min: 992222
   max: 9996666
